@@ -88,12 +88,26 @@ def build_svg(grid, cols, rows):
         f'<rect width="{width}" height="{height}" fill="{BG}" rx="6"/>',
     ]
 
+    # Grid structure (dim empty squares) is always visible so the chart reads as a
+    # chart. Contribution squares stay hidden until the snake reaches them.
+    pos = {p: i for i, p in enumerate(route)}
+
     for c in range(cols):
         for r in range(rows):
+            count = grid[c][r]
+            x = PAD + c * CELL
+            y = PAD + r * CELL
+            if count == 0:
+                out.append(f'<rect x="{x}" y="{y}" width="{CELL - 1}" height="{CELL - 1}" '
+                           f'rx="2" fill="{LEVELS[0]}"/>')
+                continue
+            t0 = pos[(c, r)] / n
+            t1 = min(1.0, (pos[(c, r)] + 1) / n)
             out.append(
-                f'<rect x="{PAD + c * CELL}" y="{PAD + r * CELL}" '
-                f'width="{CELL - 1}" height="{CELL - 1}" rx="2" '
-                f'fill="{LEVELS[level(grid[c][r])]}"/>'
+                f'<rect x="{x}" y="{y}" width="{CELL - 1}" height="{CELL - 1}" rx="2" '
+                f'fill="{LEVELS[level(count)]}" opacity="0">'
+                f'<animate attributeName="opacity" dur="{DUR}s" repeatCount="indefinite" '
+                f'values="0;0;1;1" keyTimes="0;{t0:.5f};{t1:.5f};1"/></rect>'
             )
 
     # body draws itself along the route, leaving a trail
