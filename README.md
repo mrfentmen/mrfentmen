@@ -1,10 +1,6 @@
-<pre>
-                           _______          _______  
-                          /       \        /       \ 
-                         / ##      \      / ##      \
-                         \         /      \         /
-                          \_______/        \_______/ 
+<img src="https://raw.githubusercontent.com/mrfentmen/mrfentmen/main/eyes.gif" width="600" alt="a pair of eyes looking up and to the left">
 
+<pre>
                  __  ______  _________  __________  ________  __
                 /  |/  / _ \/ __/ __/ |/ /_  __/  |/  / __/ |/ /
                / /|_/ / , _/ _// _//    / / / / /|_/ / _//    /
