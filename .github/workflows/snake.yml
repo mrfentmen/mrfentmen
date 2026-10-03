@@ -1,0 +1,37 @@
+name: contribution snake
+
+on:
+  schedule:
+    # 03:17 UTC daily - off the hour so it doesn't pile onto GitHub's cron spike
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python snake.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- snake.svg; then
+            echo "snake.svg unchanged, nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snake.svg
+          git commit -m "chore: refresh contribution snake"
+          git push
