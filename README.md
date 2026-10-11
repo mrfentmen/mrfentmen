@@ -1,5 +1,7 @@
 # mrfentmen
 
+![eyes gif](eyes.gif)
+
 🚀 **Full‑stack developer • Open‑source enthusiast • Always learning**
 
 <!-- ------------------------------------------------- -->
