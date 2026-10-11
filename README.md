@@ -28,9 +28,6 @@
 ### 📈 GitHub Activity
 [Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
-<!-- Visitor badge (laobi.icu) -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?username=mrfentmen&label=Profile%20visits&color=28a745&style=for-the-badge)
-
 <!-- ------------------------------------------------- -->
 <!--  WHAT I’M WORKING ON                            -->
 <!-- ------------------------------------------------- -->
