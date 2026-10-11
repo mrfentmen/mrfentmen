@@ -25,10 +25,11 @@
 <!-- ------------------------------------------------- -->
 [![GitHub Followers](https://img.shields.io/github/followers/mrfentmen?style=social)](https://github.com/mrfentmen?tab=followers)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mrfentmen?style=social)](https://github.com/mrfentmen?tab=repositories)
-[![GitHub Contributions](https://img.shields.io/contributions/gh/2026-10-11/mrfentmen.svg?label=Contributions&style=for-the-badge)](https://github.com/mrfentmen?tab=contributions)
+### 📈 GitHub Activity
+[Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
 <!-- Visitor badge (laobi.icu) -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?username=mrfentmen&label=Profile%20visits&color=0000ff&style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?username=mrfentmen&label=Profile%20visits&color=28a745&style=for-the-badge)
 
 <!-- ------------------------------------------------- -->
 <!--  WHAT I’M WORKING ON                            -->
