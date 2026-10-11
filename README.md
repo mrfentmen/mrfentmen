@@ -28,9 +28,6 @@
 ### 📈 GitHub Activity
 [Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
-<!-- Visitor badge (contrib.rocks) -->
-![Visitor Count](https://contrib.rocks/image/mrfentmen)
-
 <!-- ------------------------------------------------- -->
 <!--  WHAT I’M WORKING ON                            -->
 <!-- ------------------------------------------------- -->
