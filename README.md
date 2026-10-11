@@ -30,7 +30,7 @@
 
 | Repo | Description | Link |
 |------|-------------|------|
-| [skills-2](https://github.com/mrfentmen/skills-2) | Personal skill set and notes | <https://github.com/mrfentmen/skills-2> |
+| [altman skill](https://github.com/mrfentmen/skills-2/tree/main/altman) | Altman skill set | <https://github.com/mrfentmen/skills-2/tree/main/altman> |
 | [jeffery-epstien](https://github.com/mrfentmen/jeffery-epstien) | Personal notes / research | <https://github.com/mrfentmen/jeffery-epstien> |
 
 ### 📈 GitHub Activity
