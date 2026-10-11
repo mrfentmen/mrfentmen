@@ -25,6 +25,14 @@
 <!-- ------------------------------------------------- -->
 [![GitHub Followers](https://img.shields.io/github/followers/mrfentmen?style=social)](https://github.com/mrfentmen?tab=followers)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mrfentmen?style=social)](https://github.com/mrfentmen?tab=repositories)
+
+### 🛠️ Favorite Skills
+
+| Repo | Description | Link |
+|------|-------------|------|
+| [skills-2](https://github.com/mrfentmen/skills-2) | Personal skill set and notes | <https://github.com/mrfentmen/skills-2> |
+| [jeffery-epstien](https://github.com/mrfentmen/jeffery-epstien) | Personal notes / research | <https://github.com/mrfentmen/jeffery-epstien> |
+
 ### 📈 GitHub Activity
 [Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
