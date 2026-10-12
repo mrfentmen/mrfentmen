@@ -15,8 +15,7 @@
 <!-- Top languages card -->
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mrfentmen&theme=radial&langs_count=7&layout=compact)
 
-<!-- WakaTime (coding‑time) – optional, uncomment if you have a WakaTime account -->
-<!--![WakaTime](https://github-stats-extended.vercel.app/api/wakatime?username=mrfentmen&theme=radical)-->
+
 
 </div>
 
