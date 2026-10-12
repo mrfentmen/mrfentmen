@@ -33,9 +33,6 @@
 | [altman skill](https://github.com/mrfentmen/skills-2/tree/main/altman) | Altman skill set | <https://github.com/mrfentmen/skills-2/tree/main/altman> |
 | [jeffery-epstien](https://github.com/mrfentmen/jeffery-epstien) | Personal notes / research | <https://github.com/mrfentmen/jeffery-epstien> |
 
-<!-- WakaTime coding‑time -->
-![WakaTime](https://github-stats-extended.vercel.app/api/wakatime?username=mrfentmen&theme=radical&layout=compact)
-
 ### 📈 GitHub Activity
 [Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
