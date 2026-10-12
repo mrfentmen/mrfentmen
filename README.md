@@ -32,6 +32,8 @@
 | [altman skill](https://github.com/mrfentmen/skills-2/tree/main/altman) | Altman skill set | <https://github.com/mrfentmen/skills-2/tree/main/altman> |
 | [jeffery-epstien](https://github.com/mrfentmen/jeffery-epstien) | Personal notes / research | <https://github.com/mrfentmen/jeffery-epstien> |
 
+### 🤖 Currently making AI do whatever I want and building whatever I want
+
 ### 📈 GitHub Activity
 [Contributions](https://github.com/mrfentmen?tab=contributions) · [Streak](https://github.com/mrfentmen?tab=overview)
 
