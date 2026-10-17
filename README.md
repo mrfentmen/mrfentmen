@@ -1,11 +1,11 @@
 # mrfentmen
 
-![eyes gif](eyes.gif)
+![eyes gif](ezgif.com-speed.gif)
 
-🚀 **Full‑stack developer • Open‑source enthusiast • Always learning**
+🚀 **Full-stack developer • Open-source enthusiast • Always learning**
 
 <!-- ------------------------------------------------- -->
-<!--  GITHUB STATS (auto‑generated)                  -->
+<!--  GITHUB STATS (auto-generated)                  -->
 <!-- ------------------------------------------------- -->
 <div align="center">
 
@@ -15,8 +15,6 @@
 <!-- Top languages card -->
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mrfentmen&theme=radial&langs_count=7&layout=compact)
 
-
-
 </div>
 
 <!-- ------------------------------------------------- -->
@@ -25,7 +23,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mrfentmen?style=social)](https://github.com/mrfentmen?tab=followers)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mrfentmen?style=social)](https://github.com/mrfentmen?tab=repositories)
 
-### 🛠️ Favorite Skills
+### 🛠 Favorite Skills
 
 | Repo | Description | Link |
 |------|-------------|------|
@@ -41,20 +39,20 @@
 <!--  WHAT I’M WORKING ON                            -->
 <!-- ------------------------------------------------- -->
 ### Currently playing with
--   **Next.js 13** (app router) + **TailwindCSS**
+-   **Next.js 13** (app router) + **TailwindCSS**
 -   **Prisma** + **PostgreSQL**
 -   **Docker** & **GitHub Actions** pipelines
 
 ### Recent public repos
 | Repo | Description | Tech |
 |------|-------------|------|
-| [`mrfentmen/awesome‑templates`](https://github.com/mrfentmen/awesome-templates) | Curated list of starter templates for modern web apps | Next.js, Tailwind, TypeScript |
-| [`mrfentmen/microservice‑boilerplate`](https://github.com/mrfentmen/microservice-boilerplate) | Minimal Node.js/Express microservice with Docker & CI | Node, Docker, GitHub Actions |
-| [`mrfentmen/personal‑blog`](https://github.com/mrfentmen/personal-blog) | Static blog built with **Astro** and **MDX** | Astro, MDX, Tailwind |
+| [`mrfentmen/awesome-templates`](https://github.com/mrfentmen/awesome-templates) | Curated list of starter templates for modern web apps | Next.js, Tailwind, TypeScript |
+| [`mrfentmen/microservice-boilerplate`](https://github.com/mrfentmen/microservice-boilerplate) | Minimal Node.js/Express microservice with Docker & CI | Node, Docker, GitHub Actions |
+| [`mrfentmen/personal-blog`](https://github.com/mrfentmen/personal-blog) | Static blog built with **Astro** and **MDX** | Astro, MDX, Tailwind |
 
 <!-- ------------------------------------------------- -->
 <!--  FOOTER                                         -->
 <!-- ------------------------------------------------- -->
 <div align="center">
-Made with 💚 and GitHub Stats Extended
+Made with 💚 and GitHub Stats Extended
 </div>
