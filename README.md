@@ -1,5 +1,7 @@
 # mrfentmen
 
+![ASCII face](fedora_hat_ascii.png)
+
 ![eyes gif](ezgif.com-speed.gif)
 
 🚀 **Full-stack developer • Open-source enthusiast • Always learning**
